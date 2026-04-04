@@ -2,7 +2,7 @@
 title:          "Weighted Multi-view Zero-shot Learning Prototype Shift Model in Fault Diagnosis"
 date:           2022-01-01 00:00:00 +0000
 selected:       false
-pub:            "2022 China Automation Congress (CAC)"
+pub:            "China Automation Congress (CAC)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Conference</span>'
 pub_date:       "2022"
 doi:            "10.1109/CAC57257.2022.10055280"
