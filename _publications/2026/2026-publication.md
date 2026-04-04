@@ -12,7 +12,7 @@ url:            "https://arxiv.org/abs/2506.00614"
 abstract: >-
   Proposes a predictability-aware framework for compressing and decompressing multichannel time series data by leveraging latent seasonality, improving efficiency while preserving essential temporal patterns.
 
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/2026WWW.png
 
 authors:
   - Ziqi Liu
