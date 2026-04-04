@@ -11,7 +11,7 @@ url:            "https://ieeexplore.ieee.org/abstract/document/10055280"
 abstract: >-
   Proposes a weighted multi-view zero-shot learning model to address prototype shift issues in fault diagnosis. The approach integrates multi-view feature information to improve robustness and accuracy under unseen fault conditions.
 
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/2022CAC.png
 
 authors:
   - Ziqi Liu
