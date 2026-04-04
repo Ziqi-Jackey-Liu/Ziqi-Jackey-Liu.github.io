@@ -1,17 +1,25 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "IFRN: Insensitive Feature Removal Network for Zero-Shot Mechanical Fault Diagnosis Across Fault Severity"
+date:           2023-01-01 00:00:00 +0000
 selected:       true
-pub:            "Nature Communications"
+pub:            "Neurocomputing"
+pub_last:       ""
 pub_date:       "2023"
+doi:            "10.1016/j.neucom.2023.126877"
+url:            "https://www.sciencedirect.com/science/article/pii/S0925231223010007"
+
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+  Proposes an Insensitive Feature Removal Network (IFRN) for zero-shot mechanical fault diagnosis across varying fault severities. The method leverages an attention-based module and a denoising autoencoder to hierarchically eliminate insensitive features, reducing prototype shift and improving classification accuracy.
+
+cover:          /assets/images/covers/cover3.jpg
+
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+  - Ziqi Liu
+  - Rui Yang
+  - Weibo Liu
+  - Xiaohui Liu
+
 links:
-  Paper: https://www.cell.com
+  Paper: https://www.sciencedirect.com/science/article/pii/S0925231223010007
+  DOI: https://doi.org/10.1016/j.neucom.2023.126877
 ---
