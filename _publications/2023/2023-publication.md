@@ -11,7 +11,7 @@ url:            "https://www.sciencedirect.com/science/article/pii/S092523122301
 abstract: >-
   Proposes an Insensitive Feature Removal Network (IFRN) for zero-shot mechanical fault diagnosis across varying fault severities. The method leverages an attention-based module and a denoising autoencoder to hierarchically eliminate insensitive features, reducing prototype shift and improving classification accuracy.
 
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/2023Neu.png
 
 authors:
   - Ziqi Liu
